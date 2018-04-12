@@ -3,4 +3,4 @@ MemeApp can be used to quickly create memes. More features of the app are in dev
 
 # Screenshot
 
-![MemeApp](screenshots/memeapp.png)
+![MemeApp](/screenshots/memeapp.png)
